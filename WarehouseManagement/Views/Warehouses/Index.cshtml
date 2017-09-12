@@ -1,0 +1,85 @@
+﻿@model IEnumerable<WarehouseManagement.Models.Warehouse>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FreeSpace)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th></th>
+        <th>
+            Products in Warehouse
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FreeSpace)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+
+            <td>
+                <table class="table">
+                    <tr>
+
+                        <th>Prudoct ID</th>
+                        <th>name</th>
+                        <th>price</th>
+                    </tr>
+
+                    @{
+                        foreach (var Product in item.Products)
+                        {
+                            <tr>
+                                <td> @Product.ProductID </td>
+                                <td>  @Product.Name</td>
+                                <td>  @Product.Price</td>
+                            </tr>
+                        }
+                    }
+                   </table>
+            </td>
+
+
+        </tr>
+                        }
+</table>
+
+
+<script type="text/javascript" src="~/Scripts/EFSpatialGoogleMaps.js"></script>

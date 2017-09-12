@@ -1,0 +1,208 @@
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\csc.exe
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\vbc.exe
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WarehouseManagement.dll.config
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WarehouseManagement.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WarehouseManagement.pdb
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Antlr3.Runtime.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Newtonsoft.Json.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Owin.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Helpers.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Mvc.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Optimization.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Razor.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WebGrease.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Helpers.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Mvc.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Optimization.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Razor.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Antlr3.Runtime.pdb
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Newtonsoft.Json.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.csprojResolveAssemblyReference.cache
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.Migrations.add_warehouse.resources
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.csproj.GenerateResource.Cache
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.pdb
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.Edm.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.OData.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Spatial.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.Edm.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.OData.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Spatial.xml
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\de\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\es\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\fr\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\it\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ja\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ko\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ru\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\csc.exe
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\vbc.exe
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WarehouseManagement.dll.config
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WarehouseManagement.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WarehouseManagement.pdb
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Antlr3.Runtime.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.Edm.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.OData.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Newtonsoft.Json.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Owin.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Spatial.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Helpers.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Mvc.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Optimization.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Razor.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\WebGrease.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.Edm.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Data.OData.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Spatial.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Helpers.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Mvc.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Optimization.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.Razor.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Antlr3.Runtime.pdb
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Newtonsoft.Json.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\de\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\es\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\fr\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\it\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ja\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ko\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\ru\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.csprojResolveAssemblyReference.cache
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.Migrations.add_warehouse.resources
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.csproj.GenerateResource.Cache
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.dll
+C:\Users\rubi\Desktop\לימודים\שנה שנייה\מעבדת פיתוח אפליקציות\פרוייקט\WarehouseManagement\WarehouseManagement\obj\Debug\WarehouseManagement.pdb
